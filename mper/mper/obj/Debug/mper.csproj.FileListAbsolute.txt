@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\mper\mper\bin\Debug\mper.exe.config
+C:\Users\Admin\Documents\mper\mper\bin\Debug\mper.exe
+C:\Users\Admin\Documents\mper\mper\bin\Debug\mper.pdb
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.Form1.resources
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.Properties.Resources.resources
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.exe
+C:\Users\Admin\Documents\mper\mper\obj\Debug\mper.pdb
